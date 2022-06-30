@@ -2,3 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://delreallandscape.com/index</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/store</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/reviews</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/gallery-All</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/gallery-Lawn-Care</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/gallery-Hardscaping</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/gallery-Landscaping</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/gallery-Pressure-Washing</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Fall-and-Spring-Clean-Up</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Sod-Installation</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Mowing</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Mulch-Installation</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Retaining-Wall-Construction</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Shrub-Trimming</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Tree-Trimming-and-Removal</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Irrigation-Repairs-</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://delreallandscape.com/service-Pressure-Washing</loc>
+        <lastmod>2022-06-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
